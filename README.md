@@ -20,4 +20,4 @@ Baseado, com pequenas alterações, no projeto amigo secreto da Alura.
 
 ### Linkedin: https://www.linkedin.com/in/ricardo-cambui/
 
-### Link do Site: 
+### Link do Site: https://sorteio-duplas.vercel.app/
