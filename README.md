@@ -5,6 +5,8 @@ Um site feito para realizar de forma aleatoria duplas para jogos e esportes dive
 Baseado, com pequenas alterações, no projeto amigo secreto da Alura.
 
 
+![image](https://github.com/Rcambui/sorteio-duplas/blob/main/assets/homescreen%20sorteio%20duplas.png)
+
 
 ## Ferramentas utilizadas:
 
